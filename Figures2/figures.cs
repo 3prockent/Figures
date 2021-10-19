@@ -14,35 +14,6 @@ namespace Figures2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainWindow());
-
-            try
-            {
-
-                //Test 
-                Triangle tr = new Triangle(1, 2, 2);
-                Console.WriteLine(tr.GetArea());
-                Console.WriteLine(tr.GetPerimeter());
-
-                Circle cr = new Circle(5);
-                Console.WriteLine(cr.GetArea());
-                Console.WriteLine(cr.GetPerimeter());
-
-                Rectangle rec = new Rectangle(2, 3);
-                Console.WriteLine(rec.GetArea());
-                Console.WriteLine(rec.GetPerimeter());
-
-                Square sq = new Square(2);
-                Console.WriteLine(sq.GetArea());
-                Console.WriteLine(sq.GetPerimeter());
-
-                Rhombus rh = new Rhombus(3, 0.7); // 0.7 radians == 40.1 degrees
-                Console.WriteLine(rh.GetArea());
-                Console.WriteLine(rh.GetPerimeter());
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("{0} Exception caught.", e);
-            }
         }
     }
 
