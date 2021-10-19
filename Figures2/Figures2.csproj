@@ -1,0 +1,192 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="TriangleInit - Copy %282%29 - Copy %282%29 - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (2) - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %282%29 - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %282%29 - Copy %283%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %282%29 - Copy - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (2) - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %282%29 - Copy - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (2) - Copy - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %282%29 - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (2) - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %282%29 - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %283%29 - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (3).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %283%29 - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (3) - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %283%29 - Copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %283%29 - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy (3).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy %283%29.Designer.cs">
+      <DependentUpon>TriangleInit.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy %282%29 - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy %282%29 - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy (2) - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy %282%29 - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy %283%29 - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy (3).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy %283%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy %284%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy - Copy %282%29 - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy (2).Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy - Copy %283%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy - Copy - Copy %282%29.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy - Copy - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="TriangleInit - Copy - Copy.Designer.cs">
+      <DependentUpon>TriangleInit - Copy.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="CircleInit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TriangleInit - Copy.Designer.cs">
+      <DependentUpon>TriangleInit.Designer.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="CircleInit - Copy.resx">
+      <DependentUpon>CircleInit.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29 - Copy %282%29 - Copy.resx">
+      <DependentUpon>TriangleInit - Copy (2) - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29 - Copy %282%29.resx">
+      <DependentUpon>TriangleInit - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29 - Copy %283%29.resx">
+      <DependentUpon>TriangleInit - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29 - Copy - Copy %282%29.resx">
+      <DependentUpon>TriangleInit - Copy (2) - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29 - Copy - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy (2) - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29 - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy (2) - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29 - Copy.resx">
+      <DependentUpon>TriangleInit - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %282%29.resx">
+      <DependentUpon>TriangleInit.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %283%29 - Copy %282%29.resx">
+      <DependentUpon>TriangleInit - Copy (3).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %283%29 - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy (3) - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %283%29 - Copy.resx">
+      <DependentUpon>TriangleInit - Copy (3).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy %283%29.resx">
+      <DependentUpon>TriangleInit.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy %282%29 - Copy %282%29.resx">
+      <DependentUpon>TriangleInit - Copy - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy %282%29 - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy - Copy (2) - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy %282%29 - Copy.resx">
+      <DependentUpon>TriangleInit - Copy - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy %282%29.resx">
+      <DependentUpon>TriangleInit - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy %283%29 - Copy.resx">
+      <DependentUpon>TriangleInit - Copy - Copy (3).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy %283%29.resx">
+      <DependentUpon>TriangleInit - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy %284%29.resx">
+      <DependentUpon>TriangleInit - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy - Copy %282%29 - Copy.resx">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy - Copy %282%29.resx">
+      <DependentUpon>TriangleInit - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy - Copy %283%29.resx">
+      <DependentUpon>TriangleInit - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy - Copy - Copy %282%29.resx">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy - Copy - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy - Copy.resx">
+      <DependentUpon>TriangleInit - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TriangleInit - Copy.resx">
+      <DependentUpon>TriangleInit.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
